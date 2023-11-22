@@ -9,10 +9,6 @@
 <p align="center">I'm 18 years old and I started in this field recently, but with a lot of effort and a lot of study. I'm passionate about what I do, I found myself here. </p>&nbsp;
 
 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
  &nbsp;
  &nbsp;
 
