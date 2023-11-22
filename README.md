@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
-<p align="center"> I solve problems through technology!🔮🚀🖥</p>&nbsp;
+<p align="center"> Hello, I'm Júlia Abreu and I solve problems through technology!🔮🚀🖥</p>&nbsp;
 <p align="center">I'm 18 years old and I started in this field recently, but with a lot of effort and a lot of study. I'm passionate about what I do, I found myself here. </p>&nbsp;
 
 
