@@ -6,7 +6,7 @@
 
 
 <p align="center"> I solve problems through technology!🔮🚀🖥</p>&nbsp;
-<p align="center">I'm 18 years old and I started in this field a short time ago, but with a lot of effort and a lot of study. I'm passionate about simplifying people's lives with information. </p>&nbsp;
+<p align="center">I'm 18 years old and I started in this field a short time ago, but with a lot of effort and a lot of study. I'm passionate about simplifying people's lives with an information. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
