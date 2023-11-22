@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center"> I solve problems through technology!🔮🚀🖥
+<p align="center"> Solve problems through technology!🔮🚀🖥
 I'm 18!🔮🚀🖥 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
