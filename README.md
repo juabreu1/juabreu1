@@ -7,7 +7,7 @@
 
 <p align="center"> Hello, I'm Júlia Abreu and I solve problems through technology!🔮🚀🖥</p>&nbsp;
 <p align="center">I'm 18 years old and I started in this field recently, but with a lot of effort and a lot of study. </p>&nbsp;
-<p align="center"> I'm passionate about what I do, I found myself here. </p>&nbsp;
+<p align="center"> I'm passionate about what I do, I found myself here!!! </p>&nbsp;
 
 
  &nbsp;
