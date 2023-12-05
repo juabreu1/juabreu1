@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F784DA&random=false&width=435&lines=Hello%2C+Hello!+I'm+JuliaAbreu" width="70%" /><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F784DA&random=false&width=435&lines=Hello%2C+Hello!+I'm+Julia_Abreu" width="70%" /><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
 <pre>
 
