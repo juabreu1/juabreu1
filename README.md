@@ -1,9 +1,12 @@
-<html lang="pt-br">
-
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F784DA&random=false&width=435&lines=Hello%2C+Hello!+I'm+Lu%C3%ADza+%E2%99%A5" width="70%" /><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+<pre>
 
 <p align="center"> Hello, I'm Júlia Abreu and I solve problems through technology!🔮🚀🖥</p>&nbsp;
 <p align="center">I'm 18 years old and I started in this field recently, but with a lot of effort and a lot of study. </p>&nbsp;
