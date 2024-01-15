@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
-<div align="center">
+<div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F784DA&random=false&width=435&lines=Hello%2C+Hello!+I'm+JuliaAbreu" width="70%" /><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
 <pre>
